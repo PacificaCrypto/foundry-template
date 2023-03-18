@@ -1,4 +1,4 @@
-# PacificaCrypto - Foundry Template [![Foundry][foundry-badge]][foundry] [![License: Apache 2.0][license-badge]][license]
+# foundry-template [![Foundry][foundry-badge]][foundry] [![License: Apache 2.0][license-badge]][license]
 
 [foundry]: https://getfoundry.sh/
 [foundry-badge]: https://img.shields.io/badge/Foundry-Built%20with%20Foundry-informational
