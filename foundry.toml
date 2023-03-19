@@ -7,3 +7,7 @@ libs       = ['libraries']
 out        = 'artifacts'
 src        = 'contracts'
 test       = 'tests'
+
+[doc]
+out   = 'documentation'
+title = 'documentation'
