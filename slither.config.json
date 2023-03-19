@@ -3,6 +3,5 @@
     "exclude_low": false,
     "exclude_medium": false,
     "exclude_high": false,
-    "filter_paths": "libraries",
-    "json": "-"
+    "filter_paths": "libraries"
 }
