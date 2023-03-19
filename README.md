@@ -7,5 +7,7 @@
 
 ## Inspired By
 [foundry-rs/forge-template](https://github.com/foundry-rs/forge-template)
+
 [PaulRBerg/foundry-template](https://github.com/PaulRBerg/foundry-template)
+
 [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template)
