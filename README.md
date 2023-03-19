@@ -6,9 +6,9 @@
 [license-badge]: https://img.shields.io/badge/License-Apache--2.0-informational
 
 ## Inspired By
--[foundry-rs/forge-template](https://github.com/foundry-rs/forge-template)
--[PaulRBerg/foundry-template](https://github.com/PaulRBerg/foundry-template)
--[transmissions11/foundry-template](https://github.com/transmissions11/foundry-template)
+- [foundry-rs/forge-template](https://github.com/foundry-rs/forge-template)
+- [PaulRBerg/foundry-template](https://github.com/PaulRBerg/foundry-template)
+- [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template)
 
 ## License
 
